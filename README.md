@@ -5,7 +5,6 @@ Description
 This project analyzes lung cancer data using Python (and R).
 It focuses on data exploration, association between variables, and statistical tests.
 Topics Covered
-
     Age distribution analysis
     Smoking, Pollution, Income vs Lung Disease
     Chi-square test & Fisher’s Exact Test
